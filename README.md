@@ -30,4 +30,7 @@ statistical modeling
 writeup/reporting
 data visualization
 
+## Links
+Please find Tableau visualizations here: https://public.tableau.com/profile/valeria.minervini#!/vizhome/Mid-Term_Project_KingCountyPrices/Dashboard1
+
 
