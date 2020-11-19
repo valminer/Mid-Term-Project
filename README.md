@@ -1,6 +1,3 @@
-## Project Name:
-This project is a part of the Data Science Working Group at Code for San Francisco. Other DSWG projects can be found at the main GitHub repo.
-
 ## Project Intro/Objective:
 The purpose of this project is to predict house prices in King County using machine learning.
 
