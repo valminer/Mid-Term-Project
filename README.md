@@ -21,11 +21,11 @@ The goal of this project is to build a machine learning model to predict the sel
 
 
 ## Needs of this project:
-* data exploration/descriptive statistics
-* data processing/cleaning
-* statistical modeling
-* writeup/reporting
-* data visualization
+* Data exploration/descriptive statistics
+* Data processing/cleaning
+* Statistical modeling
+* Writeup/reporting
+* Data visualization
 
 ## Links
 Please find Tableau visualizations here: https://public.tableau.com/profile/valeria.minervini#!/vizhome/Mid-Term_Project_KingCountyPrices/Dashboard1
